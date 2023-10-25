@@ -46,6 +46,7 @@ public class Drug extends Uzima implements ActionListener,ItemSelectable{
    // frame.pack();  
    // frame.setVisible(true);  
 }  
+//The SimpleDigital Clock class
 static class SimpleDigitalClock extends JPanel {  
     String stringTime;  
     int hour, minute, second;  
