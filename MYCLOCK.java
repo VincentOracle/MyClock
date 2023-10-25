@@ -17,7 +17,7 @@ import java.awt.event.ActionListener;
 import javax.swing.Timer;  
 import java.awt.event.ActionEvent;  
 
-
+//this class implements the action listener
 public class Drug extends Uzima implements ActionListener,ItemSelectable{
 
     @Override
